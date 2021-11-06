@@ -30,11 +30,11 @@
 
 # GitHub Repository URL:
 
-
+https://github.com/KGCan/Module-5-Challenge.git
 
 # Website URL:
 
-
+https://kgcan.github.io/Module-5-Challenge/
 
 # Screenshot:
 
