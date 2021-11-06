@@ -38,7 +38,7 @@ https://kgcan.github.io/Module-5-Challenge/
 
 # Screenshot:
 
-
+![Screengrab](https://user-images.githubusercontent.com/88002224/140618701-b47b27b9-7420-4d98-8237-f009b8b46056.png)
 
  ## Resources Used to complete the project:
 
